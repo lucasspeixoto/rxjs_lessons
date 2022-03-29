@@ -1,6 +1,6 @@
 import { AppPage } from "./app.po";
 
-describe("angular-material-course App", () => {
+describe("rxjs_lessons App", () => {
   let page: AppPage;
 
   beforeEach(() => {
