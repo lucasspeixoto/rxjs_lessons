@@ -1,6 +1,6 @@
 ## Programação Reativa com Rxjs - Stefanini Labs
 
-Esse repositório tem como objetivo armazenar os exemplos utilizados nos eventos '#Mão no Código' do Stefanini Labs a respeito da programação reativa em projetos angular com [RxJs](https://rxjs.dev/).
+Esse repositório tem como objetivo armazenar os exemplos utilizados nos eventos 'Mão no Código' do Stefanini Labs a respeito da programação reativa em projetos angular com [RxJs](https://rxjs.dev/).
 
 Parte dos exemplos assim como a base de dados utilizadas foram retirados do curso [RxJs In Practice Course](https://angular-university.io/course/rxjs-course) da [Angular University](https://angular-university.io/home):
 
